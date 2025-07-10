@@ -204,16 +204,12 @@ cursor: pointer;
 .tr td{
     text-align: left;
     padding: 12px 15px;
-    border: 1px;
+    border: 1px solid;
 }
 .tr {
   background-color:antiquewhite;
 }
-#td{
-    text-align: center;
-   padding: 30px 20px;
-    color: maroon;
-}
+
 
 
 
